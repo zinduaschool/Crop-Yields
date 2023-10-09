@@ -9,9 +9,9 @@ The data this week comes from [Our World in Data](https://ourworldindata.org/cro
 
 Also note that there are cases where the long data includes both continent (eg Africa, Americas), countries (USA, Afghanistan, etc) and regions (North Asia, East Asia, etc). You'll need to be careful making assumptions when grouping and/or excluding specific groups.
 
-> Our data on agricultural yields across crop types and by country are much more extensive from 1960 onwards. The UN Food and Agricultural Organization (FAO) publish yield estimates across a range of crop commodities by country over this period. The FAO report yield values as the national average for any given year; this is calculated by diving total crop output (in kilograms or tonnes) by the area of land used to grow a given crop (in hectares). There are likely to be certain regional and seasonal differences in yield within a given country, however, reported average yields still provide a useful indication of changes in productivity over time and geographical region.
+> The data on agricultural yields across crop types and by country are much more extensive from 1960 onwards. The UN Food and Agricultural Organization (FAO) publish yield estimates across a range of crop commodities by country over this period. The FAO report yield values as the national average for any given year; this is calculated by diving total crop output (in kilograms or tonnes) by the area of land used to grow a given crop (in hectares). There are likely to be certain regional and seasonal differences in yield within a given country, however, reported average yields still provide a useful indication of changes in productivity over time and geographical region.
 
-We've also included data on the trade off between higher yields and land use, so there are some interesting changes to track beyond raw production.
+Also included is data on the trade off between higher yields and land use, so there are some interesting changes to track beyond raw production.
 
 
 ### Data Dictionary
